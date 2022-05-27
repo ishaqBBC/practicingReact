@@ -1,0 +1,14 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zzloxr09mp",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-es2015-react-no-gen": "2.1.0",
+    "node-jsx-babel": "0.14.2",
+    "react": "18.1.0",
+    "react-dom": "18.1.0"
+  }
+}
